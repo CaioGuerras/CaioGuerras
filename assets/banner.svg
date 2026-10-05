@@ -21,7 +21,7 @@
       <path d="M32 0H0V32" fill="none" stroke="#a855f7" stroke-opacity=".07"/>
     </pattern>
     <style>
-      .pulsar { animation: pulsar 3.2s ease-in-out infinite; transform-origin: 170px 150px; }
+      .pulsar { animation: pulsar 3.2s ease-in-out infinite; }
       @keyframes pulsar { 0%,100% { opacity: .85 } 50% { opacity: 1 } }
       @media (prefers-reduced-motion: reduce) { .pulsar { animation: none } }
     </style>

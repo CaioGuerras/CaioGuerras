@@ -57,7 +57,7 @@
 ## 📊 Por aqui
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioGuerras&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0d0a12&title_color=c084fc&text_color=d9cdee&icon_color=a855f7&border_color=2a2236" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=CaioGuerras&show_icons=true&rank_icon=github&bg_color=0d0a12&title_color=c084fc&text_color=d9cdee&icon_color=a855f7&border_color=2a2236" alt="Estatísticas do GitHub">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioGuerras&layout=compact&langs_count=6&bg_color=0d0a12&title_color=c084fc&text_color=d9cdee&icon_color=a855f7&border_color=2a2236" alt="Linguagens mais usadas">
 </p>
 
