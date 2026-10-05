@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Caio Guerras: self-hosting, automação e IA aplicada" width="100%">
+  <img src="assets/banner-v2.svg" alt="Caio Guerras: self-hosting, automação e IA aplicada" width="100%">
 </p>
 
 <p align="center">
